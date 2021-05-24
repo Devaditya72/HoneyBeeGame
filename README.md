@@ -3,5 +3,5 @@ The aim of the project is to investigate and provide insights into pathfinding a
 
 <b>Team Members:</b> Lakshita Singh, Isha Aggarwal
 
-<center>![image](https://user-images.githubusercontent.com/67590424/119380018-cf800500-bcdd-11eb-8589-4e84d52d79ec.png)</center>
+<centre> ![image](https://user-images.githubusercontent.com/67590424/119380018-cf800500-bcdd-11eb-8589-4e84d52d79ec.png)  </centre>
 
